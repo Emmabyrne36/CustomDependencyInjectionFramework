@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumer.ConsoleApp", "Consumer.ConsoleApp\Consumer.ConsoleApp.csproj", "{AE1B7344-4909-40A4-8D9C-CECCAE43FE2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vax", "Vax\Vax.csproj", "{5BFE4A2B-81D4-49D2-9A93-93CF226A4FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE1B7344-4909-40A4-8D9C-CECCAE43FE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1B7344-4909-40A4-8D9C-CECCAE43FE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1B7344-4909-40A4-8D9C-CECCAE43FE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1B7344-4909-40A4-8D9C-CECCAE43FE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFE4A2B-81D4-49D2-9A93-93CF226A4FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFE4A2B-81D4-49D2-9A93-93CF226A4FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFE4A2B-81D4-49D2-9A93-93CF226A4FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFE4A2B-81D4-49D2-9A93-93CF226A4FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A69F65C-FD6B-4556-AA56-D9D2935CB0FA}
+	EndGlobalSection
+EndGlobal
